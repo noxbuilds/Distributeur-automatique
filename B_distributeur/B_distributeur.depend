@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1793958354 source:/home/coder_machina/Documents/J1/B_distributeur/ft_rendre_monnaie.c
+	<unistd.h>
+	"distributeur.h"
+
+1793960566 /home/coder_machina/Documents/J1/B_distributeur/distributeur.h
+	<unistd.h>
+
+1793972225 source:/home/coder_machina/Documents/J1/B_distributeur/main.c
+	"distributeur.h"
+
